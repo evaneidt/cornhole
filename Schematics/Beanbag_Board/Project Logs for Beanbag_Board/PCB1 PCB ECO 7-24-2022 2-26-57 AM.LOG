@@ -1,0 +1,23 @@
+Added Component: Designator=U3(SOT23-6_N)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "576-3229-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "576-3229-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "576-3229-2-NDL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_4"; Value = "576-3229-6-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MICRF113YM6-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found XTAL_ECS-.327-6-34RR-TR
+Add Pin To Net: Unknown Pin: Pin BT1-+
+Add Pin To Net: Unknown Pin: Pin BT1--
+Added Pin To Net: NetName=PAOUT Pin=U3-1
+Added Pin To Net: NetName=SA0 Pin=U3-2
+Added Pin To Net: NetName=RF_VDD Pin=U3-3
+Added Pin To Net: NetName=NetC5_1 Pin=U3-4
+Added Pin To Net: NetName=NetC6_1 Pin=U3-5
+Added Pin To Net: NetName=RADIO_TX Pin=U3-6
+Add Pin To Net: Unknown Pin: Pin Y2-1
+Add Pin To Net: Unknown Pin: Pin Y2-2
+Added Member To Class: ClassName=Radio Member=Component U3 MICRF113YM6-TR
+Add Class Member: Failed to add class member : Component Y2 32kHz

@@ -1,0 +1,14 @@
+Add Component: Footprint Not Found SOT-23-6_MC_MCH
+Add Component: Footprint Not Found XTAL_ECS-.327-6-34RR-TR
+Add Pin To Net: Unknown Pin: Pin BT1-+
+Add Pin To Net: Unknown Pin: Pin BT1--
+Add Pin To Net: Unknown Pin: Pin U3-1
+Add Pin To Net: Unknown Pin: Pin U3-2
+Add Pin To Net: Unknown Pin: Pin U3-3
+Add Pin To Net: Unknown Pin: Pin U3-4
+Add Pin To Net: Unknown Pin: Pin U3-5
+Add Pin To Net: Unknown Pin: Pin U3-6
+Add Pin To Net: Unknown Pin: Pin Y2-1
+Add Pin To Net: Unknown Pin: Pin Y2-2
+Add Class Member: Failed to add class member : Component U3 MICRF113YM6-TR
+Add Class Member: Failed to add class member : Component Y2 32kHz
