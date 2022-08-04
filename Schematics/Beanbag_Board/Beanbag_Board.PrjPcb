@@ -219,7 +219,7 @@ GenerateClassCluster=0
 DocumentUniqueId=USLMJXIR
 
 [Document11]
-DocumentPath=PCB1.PcbDoc
+DocumentPath=Beanbag.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
