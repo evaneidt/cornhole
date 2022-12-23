@@ -1,0 +1,283 @@
+*************************************************************
+FileName = Beanbag.GBR
+AutoAperture = True
+*************************************************************
+Generating : Bottom Component Center
+      File : Beanbag.GM24
+
+    Adding Layer      : Bottom Component Center
+
+
+Used DCodes :
+    D74
+*************************************************************
+
+*************************************************************
+Generating : Bottom Courtyard
+      File : Beanbag.GM21
+
+    Adding Layer      : Bottom Courtyard
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Bottom Assembly
+      File : Beanbag.GM20
+
+    Adding Layer      : Bottom Assembly
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Top Component Center
+      File : Beanbag.GM16
+
+    Adding Layer      : Top Component Center
+
+
+Used DCodes :
+    D74
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : Beanbag.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D72
+    D74
+    D76
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : Beanbag.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D11
+    D13
+    D14
+    D73
+    D74
+    D75
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : Beanbag.GM5
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : Beanbag.GM3
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : Beanbag.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : Beanbag.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Beanbag.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D11
+    D12
+    D15
+    D72
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Beanbag.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D25
+    D26
+    D38
+    D39
+    D40
+    D41
+    D42
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Beanbag.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Beanbag.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Beanbag.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D25
+    D49
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : Beanbag.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D21
+    D23
+    D24
+    D25
+    D28
+    D29
+    D31
+    D33
+    D36
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+*************************************************************
+

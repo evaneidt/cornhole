@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=Y1 Old Footprint=R38 New Footprint=HC/49US-(AT49)_1
+Change Component Comment : Designator=Y1 Old Comment=XTAL New Comment=9.8304MHZ
+Change component parameters: Designator = "Y1" ("Y1"); Footprint = "R38"; UniqueID = "\IIWWMODU" ("\IIWWMODU")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "ABLS2-16.000MHZ-D4Y-T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/abls2-16.000mhz-d4y-t/abracon?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://abracon.com/Resonators/ABLS2.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "ABRACON"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ABLS2-16.000MHZ-D4Y-T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "815-ABLS2-16-D4Y-T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/ABRACON/ABLS2-16.000MHZ-D4Y-T?qs=LoTOQoUkC8S5C2377M50iA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"

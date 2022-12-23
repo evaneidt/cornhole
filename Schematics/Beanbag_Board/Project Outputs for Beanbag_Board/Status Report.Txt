@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Beanbag_Board.PrjPcb]
+   Generated File[Beanbag.TXT]
+   Generated File[Beanbag.LDP]
+   Generated File[Beanbag.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 12:45:20 AM On 10/1/2022
